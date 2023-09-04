@@ -1,0 +1,7 @@
+C:\Users\mansh\OneDrive\Documents\MarkerTranslator\bin\Debug\MarkerTranslator.exe.config
+C:\Users\mansh\OneDrive\Documents\MarkerTranslator\bin\Debug\MarkerTranslator.exe
+C:\Users\mansh\OneDrive\Documents\MarkerTranslator\bin\Debug\MarkerTranslator.pdb
+C:\Users\mansh\OneDrive\Documents\MarkerTranslator\obj\Debug\MarkerTranslator.csproj.AssemblyReference.cache
+C:\Users\mansh\OneDrive\Documents\MarkerTranslator\obj\Debug\MarkerTranslator.csproj.CoreCompileInputs.cache
+C:\Users\mansh\OneDrive\Documents\MarkerTranslator\obj\Debug\MarkerTranslator.exe
+C:\Users\mansh\OneDrive\Documents\MarkerTranslator\obj\Debug\MarkerTranslator.pdb
